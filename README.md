@@ -5,7 +5,7 @@ Software Developer| Backend Developer
 </h3>
 
 <p align="center">
-Computer Programmer Analyst (UNLP) passionate about backend development,
+Analista Programador Universitario (UNLP) passionate about backend development,
 REST APIs and scalable web applications.
 </p>
 
