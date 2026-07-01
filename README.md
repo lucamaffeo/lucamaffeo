@@ -61,7 +61,7 @@ Full-stack management platform developed for a non-profit organization.
 - Input validation
 
 🔗 Repository:
-https://github.com/TU_USUARIO/cedica-management-system
+https://github.com/lucamaffeo/cedica-management-system
 
 ---
 
@@ -70,7 +70,7 @@ https://github.com/TU_USUARIO/cedica-management-system
 Vehicle rental platform developed following Software Engineering best practices.
 
 🔗 Repository:
-https://github.com/TU_USUARIO/alquilando
+https://github.com/lucamaffeo/alquilando
 
 ---
 
@@ -79,7 +79,7 @@ https://github.com/TU_USUARIO/alquilando
 Music-oriented web application.
 
 🔗 Repository:
-https://github.com/TU_USUARIO/ActiveSound
+https://github.com/lucamaffeo/ActiveSound
 
 ---
 
@@ -87,9 +87,9 @@ https://github.com/TU_USUARIO/ActiveSound
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucamaffeo&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucamaffeo&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -99,7 +99,7 @@ https://github.com/TU_USUARIO/ActiveSound
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lucamaffeo&theme=github-dark&hide_border=true"/>
 
 </p>
 
